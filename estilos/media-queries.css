@@ -10,7 +10,8 @@
 
 
     section#login {
-        width: 90vw;
+        width: 70vw;
+        height: 50vw;
     }
 
     section#login > div#imagem{
@@ -37,7 +38,7 @@
     }
 
     section#login {
-        width: 900px;
+        width: 1000px;
         background-image: linear-gradient(to bottom, #1C1973, #0D0E26 );
         color: white;
     }
@@ -51,6 +52,9 @@
     section#login > div#formulario{
         float: left;
         width: 40%;
+        text-align: center;
+        text-align: justify;
+        margin-left: 30px;
     }
 
     div#formulario > p{
